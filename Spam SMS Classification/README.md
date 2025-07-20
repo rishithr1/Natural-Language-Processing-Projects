@@ -45,7 +45,7 @@ _**Note: Evaluation scores are obtained using cross validation.**_
 ![Prediction](readme-resources/prediction.PNG)
 
 ## Model Deployment
-• Repository Link: <br />
+• Repository Link: https://github.com/rishithr1/Natural-Language-Processing-Projects/tree/main/Spam%20SMS%20Classification <br />
 
 
 
