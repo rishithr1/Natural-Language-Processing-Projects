@@ -45,7 +45,7 @@ _**Note: Evaluation scores are obtained using cross validation.**_
 ![Prediction](readme-resources/prediction.PNG)
 
 ## Model Deployment
-• Repository Link: https://github.com/anujvyas/Spam-SMS-Classifier-Deployment<br />
-• Web App Link: https://spam-sms-detector.herokuapp.com/<br/>
+• Repository Link: <br />
 
-_**Do ⭐ the repository, if it helped you in anyway.**_
+
+
